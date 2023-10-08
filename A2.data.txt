@@ -1,0 +1,51 @@
+Topics:
+
+301, Machine learning
+302, Databases
+303, Big Data
+304, Programming languages
+
+Projects:
+10001, A unified database structure for structured/unstructured/semistructured
+ data (on topics 302 and 303)
+10002, Advanced Machine learning in analyzing crop images (on topic 301)
+10003, Efficient functional programming in Big Data, (on topics 303 and 304)
+
+Reports:
+552, A space efficient data warehouse (on topics 302 and 303) 
+554, Computer vision based crop growth monitoring (on topic 301)
+561, Automated data extraction in big data analytics (on topics 302 and 303)
+565, A new hashing structure for large key-value data sets (on topic 303)
+577, Yet another language for big data analysis (on topics 303 and 304)
+
+
+Funding agencies:
+NSERC, 350 Albert Street, Ottawa, ON K1A 1H5, 613-995-4273
+OMAFRA, 1 Stone Road West, Guelph, ON N1G 4Y2, 519-826-3100
+
+Grants:
+6733, $10000, 2019-2020 (from NSERC, for project 10001)
+2355, $80000, 2019-2022 (from OMAFRA, for project 10002)
+3744, $15000, 2018-2019 (form NSERC, for project 10001)
+6347, $20000, 2017-2020 (from NSERC, for project 10003)
+9877, $35000, 2019-2022 (from OMAFRA, for project 10002)
+
+Researchers:
+102323, James, X52838, REY3203, james@uoguelph.ca 
+           (working on project 10002, author of report 554)
+103946, Jones, X53371, REY3101, jones@uoguelph.ca 
+           (working on project 10001, author of report 552, 561)
+117673, White, X56652, REY2331, white@uoguelph.ca 
+           (PI for projects 10001 and 10003, author of report 552, 561, 565, 577)
+134262, Brown, X53342, REY3228, brown@uoguelph.ca 
+           (PI for project 10002, author of report 554)
+106469, Green, X54693, REY2044, green@uoguelph.ca 
+           (working on project 10003, author of report 577 )
+225320, Murry, X52289, REY2388, murry@uoguelph.ca 
+           (working on project 10002, author of report 554)
+324201, Smith, X54334, REY3781, smith@uoguelph.ca 
+           (working on project 10003, author of report 577) 
+849171, Field, X56381, REY3544, field@uoguelph.ca
+           (working on project 10001, author of report 552, 565)
+
+
